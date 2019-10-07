@@ -338,3 +338,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Assembly-CSharp.csproj
+/five-in-a-row.sln
+/Temp
+/Library
